@@ -1,3 +1,3 @@
-module bou.ke/monkey
+module github.com/markelog/monkey
 
 go 1.13

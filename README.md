@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"bou.ke/monkey"
+	"github.com/markelog/monkey"
 )
 
 func main() {
@@ -50,7 +50,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"bou.ke/monkey"
+	"github.com/markelog/monkey"
 )
 
 func main() {
@@ -79,7 +79,7 @@ import (
 	"reflect"
 	"strings"
 
-	"bou.ke/monkey"
+	"github.com/markelog/monkey"
 )
 
 func main() {

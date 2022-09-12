@@ -1,4 +1,4 @@
-package monkey // import "bou.ke/monkey"
+package monkey // import "github.com/markelog/monkey"
 
 import (
 	"fmt"

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"bou.ke/monkey"
+	"github.com/markelog/monkey"
 )
 
 func main() {
